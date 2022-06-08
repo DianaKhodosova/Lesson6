@@ -1,5 +1,5 @@
 package lesson6;
-
+//HW
 public class Dog extends Animal {
 
     private final int MaxRunLength = 500;

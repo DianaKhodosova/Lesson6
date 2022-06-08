@@ -1,5 +1,5 @@
 package lesson6;
-
+//HW
 public class Cat extends Animal {
 
     private int swimmingSpeed;

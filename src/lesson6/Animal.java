@@ -1,4 +1,5 @@
 package lesson6;
+//HW
 
 abstract class Animal {
     private String name;
